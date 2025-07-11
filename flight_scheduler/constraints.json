@@ -1,0 +1,7 @@
+{
+  "MinTurnaroundTimeMinutes": 45,
+  "MaxCrewDutyHours": 8,
+  "SlaPenalty": 50,
+  "DelayPenalty": 10,
+  "MaintenancePenalty": 30
+} 

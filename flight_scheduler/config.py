@@ -1,0 +1,9 @@
+MinTurnaroundTimeMinutes = 45
+MaxCrewDutyHours = 8
+SlaPenalty = 50
+DelayPenalty = 10
+MaintenancePenalty = 30
+FuelPenalty = 5
+GatewayPenalty = 20
+VolumePenalty = 15
+HazmatPenalty = 25 
