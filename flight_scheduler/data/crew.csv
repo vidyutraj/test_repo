@@ -1,9 +1,0 @@
-CrewID,Location,OnDuty,DutyStart,MaxDutyHours,HoursWorked,DutyStartMin
-C01,SDF,False,00:00,8,6,0
-C02,ORD,True,00:30,8,7,30
-C03,JFK,False,01:00,8,0,60
-C04,ATL,True,01:30,7,5,90
-C05,LAX,True,02:00,8,2,120
-C06,DFW,False,02:30,8,0,150
-C07,SDF,True,03:00,6,5,180
-C08,ORD,True,03:30,8,3,210
