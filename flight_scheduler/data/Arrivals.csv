@@ -1,43 +1,33 @@
-FlightNumber,TailNumber,OriginCode,OriginName,DestinationCode,DestinationName,DepartureDate,DepartureTime,Distance (km)
-5X222,N1234X,SDF,Louisville,CGN,Cologne Bonn Airport,Jul 12,8:31,7001
-5X327,N5678X,SDF,Louisville,SJU,San Juan Luis Munoz Marin International Airport,Jul 12,2:18,2910
-5X7929,N9012X,SDF,Louisville,SJU,San Juan Luis Munoz Marin International Airport,Jul 12,11:08,2910
-5X55,N3456X,SDF,Louisville,ANC,Anchorage Ted Stevens International Airport,Jul 12,20:54,5013
-5X59,N7890X,SDF,Louisville,ANC,Anchorage Ted Stevens International Airport,Jul 12,2:47,5013
-5X61,N2345X,SDF,Louisville,ANC,Anchorage Ted Stevens International Airport,Jul 12,8:20,5013
-5X63,N6789X,SDF,Louisville,ANC,Anchorage Ted Stevens International Airport,Jul 12,8:36,5013
-5X69,N0123X,SDF,Louisville,ANC,Anchorage Ted Stevens International Airport,Jul 12,20:47,5013
-5X71,N4567X,SDF,Louisville,ANC,Anchorage Ted Stevens International Airport,Jul 12,11:25,5013
-5X77,N8901X,SDF,Louisville,ANC,Anchorage Ted Stevens International Airport,Jul 12,8:24,5013
-5X81,N2345X,SDF,Louisville,ANC,Anchorage Ted Stevens International Airport,Jul 12,8:00,5013
-5X99,N6789X,SDF,Louisville,ANC,Anchorage Ted Stevens International Airport,Jul 12,10:01,5013
-5X109,N0123X,SDF,Louisville,ANC,Anchorage Ted Stevens International Airport,Jul 12,0:24,5013
-5X197,N4567X,SDF,Louisville,ANC,Anchorage Ted Stevens International Airport,Jul 12,0:46,5013
-5X6065,N8901X,SDF,Louisville,ANC,Anchorage Ted Stevens International Airport,Jul 12,21:02,5013
-5X5303,N2345X,SDF,Louisville,ATL,Atlanta Hartsfield-Jackson International Airport,Jul 12,8:48,518
-5X5227,N6789X,SDF,Louisville,BWI,Baltimore Washington International Airport,Jul 12,9:14,795
-5X5591,N0123X,SDF,Louisville,BIL,Billings Logan International Airport,Jul 12,11:42,2057
-5X5837,N4567X,SDF,Louisville,BOI,Boise Airport,Jul 12,12:34,2617
-5X5285,N8901X,SDF,Louisville,CLT,Charlotte Douglas International Airport,Jul 12,9:24,539
-5X5495,N2345X,SDF,Louisville,ORD,Chicago O'Hare International Airport,Jul 12,11:32,461
-5X5605,N6789X,SDF,Louisville,ORD,Chicago O'Hare International Airport,Jul 12,11:04,461
-5X5445,N0123X,SDF,Louisville,CLE,Cleveland Hopkins International Airport,Jul 12,9:33,489
-5X759,N4567X,SDF,Louisville,DFW,Dallas Fort Worth International Airport,Jul 12,7:56,1178
-5X5751,N8901X,SDF,Louisville,DFW,Dallas Fort Worth International Airport,Jul 12,8:31,1178
-5X5765,N2345X,SDF,Louisville,DFW,Dallas Fort Worth International Airport,Jul 12,10:27,1178
-5X5807,N6789X,SDF,Louisville,DEN,Denver International Airport,Jul 12,11:52,1644
-5X5481,N0123X,SDF,Louisville,DTW,Detroit Metropolitan Wayne County Airport,Jul 12,8:48,492
-5X5871,N4567X,SDF,Louisville,ELP,El Paso International Airport,Jul 12,13:15,2005
-5X5277,N8901X,SDF,Louisville,GSO,Greensboro Piedmont Triad International Airport,Jul 12,10:52,563
-5X5771,N2345X,SDF,Louisville,IAH,Houston George Bush Intercontinental Airport,Jul 12,9:26,1268
-5X5441,N6789X,SDF,Louisville,JAX,Jacksonville International Airport,Jul 12,10:33,931
-5X5661,N0123X,SDF,Louisville,MCI,Kansas City International Airport,Jul 12,9:22,788
-5X5911,N4567X,SDF,Louisville,LAS,Las Vegas Harry Reid International Airport,Jul 12,12:46,2607
-5X5923,N8901X,SDF,Louisville,LAX,Los Angeles International Airport,Jul 12,12:49,2959
-5X5793,N2345X,SDF,Louisville,LBB,Lubbock Preston Smith International Airport,Jul 12,11:31,1530
-5X1057,N6789X,SDF,Louisville,MHT,Manchester Boston Regional Airport,Jul 12,10:10,1317
-5X5383,N0123X,SDF,Louisville,MEM,Memphis International Airport,Jul 12,10:33,514
-5X401,N4567X,SDF,Louisville,MIA,Miami International Airport,Jul 12,1:45,1469
-5X1309,N8901X,SDF,Louisville,MIA,Miami International Airport,Jul 12,9:13,1469
-5X5333,N2345X,SDF,Louisville,MIA,Miami International Airport,Jul 12,10:13,1469
-5X7805,N6789X,SDF,Louisville,MIA,Miami International Airport,Jul 12,13:03,1469
+FlightNumber,TailNumber,AircraftType,OriginCode,OriginName,DestinationCode,DestinationName,ArrivalDate,ArrivalTime,Distance
+5X222,N2001X,747,CGN,Cologne Bonn Airport,SDF,Louisville,JUL 12,08:31,7001
+5X327,N2002X,767,SJU,San Juan Luis Munoz Marin International Airport,SDF,Louisville,JUL 12,02:18,2910
+5X7929,N2003X,MD11,SJU,San Juan Luis Munoz Marin International Airport,SDF,Louisville,JUL 12,11:08,2910
+5X55,N2004X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,20:54,5013
+5X59,N2005X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,02:47,5013
+5X61,N2006X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,08:20,5013
+5X63,N2007X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,08:36,5013
+5X69,N2008X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,20:47,5013
+5X71,N2009X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,11:25,5013
+5X77,N2010X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,08:24,5013
+5X81,N2011X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,08:00,5013
+5X99,N2012X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,10:01,5013
+5X109,N2013X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,00:24,5013
+5X197,N2014X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,00:46,5013
+5X6065,N2015X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,21:02,5013
+5X5303,N2016X,767,ATL,Atlanta Hartsfield-Jackson International Airport,SDF,Louisville,JUL 12,08:48,518
+5X5227,N2017X,MD11,BWI,Baltimore Washington International Airport,SDF,Louisville,JUL 12,09:14,795
+5X5591,N2018X,767,BIL,Billings Logan International Airport,SDF,Louisville,JUL 12,11:42,2057
+5X5837,N2019X,757,BOI,Boise Airport,SDF,Louisville,JUL 12,12:34,2617
+5X5285,N2020X,767,CLT,Charlotte Douglas International Airport,SDF,Louisville,JUL 12,09:24,539
+5X5495,N2021X,767,ORD,Chicago O'Hare International Airport,SDF,Louisville,JUL 12,11:32,461
+5X5605,N2022X,767,ORD,Chicago O'Hare International Airport,SDF,Louisville,JUL 12,11:04,461
+5X5445,N2023X,767,CLE,Cleveland Hopkins International Airport,SDF,Louisville,JUL 12,09:33,489
+5X759,N2024X,MD11,DFW,Dallas Fort Worth International Airport,SDF,Louisville,JUL 12,07:56,1178
+5X5751,N2025X,737,DFW,Dallas Fort Worth International Airport,SDF,Louisville,JUL 12,08:31,1178
+5X5765,N2026X,MD11,DFW,Dallas Fort Worth International Airport,SDF,Louisville,JUL 12,10:27,1178
+5X5807,N2027X,767,DEN,Denver International Airport,SDF,Louisville,JUL 12,11:52,1644
+5X5481,N2028X,767,DTW,Detroit Metropolitan Wayne County Airport,SDF,Louisville,JUL 12,08:48,492
+5X5871,N2029X,737,ELP,El Paso International Airport,SDF,Louisville,JUL 12,13:15,2005
+5X5277,N2030X,767,GSO,Greensboro Piedmont Triad International Airport,SDF,Louisville,JUL 12,10:52,563
+5X5771,N2031X,767,IAH,Houston George Bush Intercontinental Airport,SDF,Louisville,JUL 12,09:26,1268
+5X5441,N2032X,737,JAX,Jacksonville International Airport,SDF,Louisville,JUL 12,10:33,931
