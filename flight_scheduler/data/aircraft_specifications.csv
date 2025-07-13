@@ -1,7 +1,0 @@
-AircraftID,Size,FuelEfficiency,MaxPayload,MaintenanceInterval,HotSpare
-A101,Medium,0.8,5000,100,TRUE
-A102,Large,0.7,8000,120,FALSE
-A103,Medium,0.9,4500,80,TRUE
-A104,Large,0.6,10000,150,FALSE
-A105,Jumbo,0.5,15000,200,FALSE
-A106,Medium,0.85,5500,90,TRUE 
