@@ -1,0 +1,22 @@
+FlightNumber,TailNumber,AircraftType,DestinationAirportName,DestinationAirportCode,ScheduledDeparture,EstimatedDeparture
+5X227,,B742,Cologne Bonn Airport,CGN,2025-07-14T15:18:00,2025-07-14T15:32:00
+5X72,N633UP,Boeing 747-8F,Anchorage Ted Stevens International Airport,ANC,2025-07-14T16:03:00,2025-07-14T16:23:00
+5X9306,,MD11,Dallas Fort Worth International Airport,DFW,2025-07-14T16:30:00,2025-07-14T16:45:00
+5X756,,B748,Dallas Fort Worth International Airport,DFW,2025-07-14T16:40:00,2025-07-14T16:50:00
+5X7826,N341UP,Boeing 767-34AF(ER),Phoenix Sky Harbor International Airport,PHX,2025-07-14T16:52:00,2025-07-14T17:06:00
+5X9304,,B763,Manchester Boston Regional Airport,MHT,2025-07-14T17:40:00,2025-07-14T17:49:00
+5X9310,,A306,Boston Logan International Airport,BOS,2025-07-14T18:00:00,2025-07-14T18:12:00
+5X9312,,763,Memphis International Airport,MEM,2025-07-14T19:00:00,2025-07-14T19:15:00
+5X9729,,75V,Huntsville International Airport,HSV,2025-07-14T19:50:00,2025-07-14T20:06:00
+5X1188,,B763,Philadelphia International Airport,PHL,2025-07-15T00:50:00,2025-07-15T01:06:00
+5X616,,ABM,Chicago Rockford International Airport,RFD,2025-07-15T01:15:00,2025-07-15T01:29:00
+5X990,,763,Denver International Airport,DEN,2025-07-15T01:20:00,2025-07-15T01:35:00
+5X920,,B763,Phoenix Sky Harbor International Airport,PHX,2025-07-15T01:40:00,2025-07-15T01:53:00
+5X996,,B752,Portland International Airport,PDX,2025-07-15T01:42:00,2025-07-15T01:50:00
+5X846,,B752,Salt Lake City International Airport,SLC,2025-07-15T01:44:00,2025-07-15T01:56:00
+5X612,,ABM,Chicago Rockford International Airport,RFD,2025-07-15T01:50:00,2025-07-15T02:04:00
+5X1244,,B752,Raleigh-Durham International Airport,RDU,2025-07-15T01:54:00,2025-07-15T02:02:00
+5X1222,,B752,Richmond Airport,RIC,2025-07-15T02:00:00,2025-07-15T02:11:00
+5X750,,B763,Dallas Fort Worth International Airport,DFW,2025-07-15T02:02:00,2025-07-15T02:14:00
+5X1340,,B752,Tampa International Airport,TPA,2025-07-15T02:10:00,2025-07-15T02:22:00
+5X1052,,B752,Manchester Boston Regional Airport,MHT,2025-07-15T02:14:00,2025-07-15T02:23:00

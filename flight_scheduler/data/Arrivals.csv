@@ -1,33 +1,29 @@
-FlightNumber,TailNumber,AircraftType,OriginCode,OriginName,DestinationCode,DestinationName,ArrivalDate,ArrivalTime,Distance
-5X222,N2001X,747,CGN,Cologne Bonn Airport,SDF,Louisville,JUL 12,08:31,7001
-5X327,N2002X,767,SJU,San Juan Luis Munoz Marin International Airport,SDF,Louisville,JUL 12,02:18,2910
-5X7929,N2003X,MD11,SJU,San Juan Luis Munoz Marin International Airport,SDF,Louisville,JUL 12,11:08,2910
-5X55,N2004X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,20:54,5013
-5X59,N2005X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,02:47,5013
-5X61,N2006X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,08:20,5013
-5X63,N2007X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,08:36,5013
-5X69,N2008X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,20:47,5013
-5X71,N2009X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,11:25,5013
-5X77,N2010X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,08:24,5013
-5X81,N2011X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,08:00,5013
-5X99,N2012X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,10:01,5013
-5X109,N2013X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,00:24,5013
-5X197,N2014X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,00:46,5013
-5X6065,N2015X,747,ANC,Anchorage Ted Stevens International Airport,SDF,Louisville,JUL 12,21:02,5013
-5X5303,N2016X,767,ATL,Atlanta Hartsfield-Jackson International Airport,SDF,Louisville,JUL 12,08:48,518
-5X5227,N2017X,MD11,BWI,Baltimore Washington International Airport,SDF,Louisville,JUL 12,09:14,795
-5X5591,N2018X,767,BIL,Billings Logan International Airport,SDF,Louisville,JUL 12,11:42,2057
-5X5837,N2019X,757,BOI,Boise Airport,SDF,Louisville,JUL 12,12:34,2617
-5X5285,N2020X,767,CLT,Charlotte Douglas International Airport,SDF,Louisville,JUL 12,09:24,539
-5X5495,N2021X,767,ORD,Chicago O'Hare International Airport,SDF,Louisville,JUL 12,11:32,461
-5X5605,N2022X,767,ORD,Chicago O'Hare International Airport,SDF,Louisville,JUL 12,11:04,461
-5X5445,N2023X,767,CLE,Cleveland Hopkins International Airport,SDF,Louisville,JUL 12,09:33,489
-5X759,N2024X,MD11,DFW,Dallas Fort Worth International Airport,SDF,Louisville,JUL 12,07:56,1178
-5X5751,N2025X,737,DFW,Dallas Fort Worth International Airport,SDF,Louisville,JUL 12,08:31,1178
-5X5765,N2026X,MD11,DFW,Dallas Fort Worth International Airport,SDF,Louisville,JUL 12,10:27,1178
-5X5807,N2027X,767,DEN,Denver International Airport,SDF,Louisville,JUL 12,11:52,1644
-5X5481,N2028X,767,DTW,Detroit Metropolitan Wayne County Airport,SDF,Louisville,JUL 12,08:48,492
-5X5871,N2029X,737,ELP,El Paso International Airport,SDF,Louisville,JUL 12,13:15,2005
-5X5277,N2030X,767,GSO,Greensboro Piedmont Triad International Airport,SDF,Louisville,JUL 12,10:52,563
-5X5771,N2031X,767,IAH,Houston George Bush Intercontinental Airport,SDF,Louisville,JUL 12,09:26,1268
-5X5441,N2032X,737,JAX,Jacksonville International Airport,SDF,Louisville,JUL 12,10:33,931
+flight_number,tail_number,aircraft_type,origin_name,origin_code,scheduled_arrival,estimated_arrival
+5X9314,,75V,Boston Logan International Airport,BOS,2025-07-14T22:11:00,
+5X224,N610UP,Boeing 747-8F,Cologne Bonn Airport,CGN,2025-07-14T22:21:00,
+5X1193,,MD11,Philadelphia International Airport,PHL,2025-07-14T22:23:00,
+5X1275,,MD11,Raleigh-Durham International Airport,RDU,2025-07-14T22:23:00,
+5X1291,,M11,Columbia Metropolitan Airport,CAE,2025-07-14T22:24:00,
+5X1321,,B763,Jacksonville International Airport,JAX,2025-07-14T22:34:00,
+5X1441,,B763,Cleveland Hopkins International Airport,CLE,2025-07-14T22:34:00,
+5X1375,,A306,Knoxville McGhee Tyson Airport,TYS,2025-07-14T22:34:00,
+5X1285,,B763,Charlotte Douglas International Airport,CLT,2025-07-14T22:38:00,
+5X495,,B752,Winnipeg James Armstrong Richardson International Airport,YWG,2025-07-14T22:40:00,
+5X1329,,763,Orlando International Airport,MCO,2025-07-14T22:42:00,
+5X1347,,75V,Southwest Florida International Airport,RSW,2025-07-14T22:45:00,
+5X1123,,B752,Albany International Airport,ALB,2025-07-14T22:53:00,
+5X1231,,,Richmond Airport,RIC,2025-07-14T22:54:00,
+5X1231,,B763,Richmond Airport,RIC,2025-07-14T22:54:00,
+5X1269,,B752,Roanoke Regional Airport,ROA,2025-07-14T22:54:00,
+5X1335,,ABM,Orlando International Airport,MCO,2025-07-14T22:59:00,
+5X1151,,763,Pittsburgh International Airport,PIT,2025-07-14T22:59:00,
+5X751,,M11,Dallas Fort Worth International Airport,DFW,2025-07-14T23:01:00,
+5X1477,,ABM,Lansing Capital Region International Airport,LAN,2025-07-14T23:01:00,
+5X1395,,MD11,Miami International Airport,MIA,2025-07-14T23:03:00,
+5X1057,,B763,Manchester Boston Regional Airport,MHT,2025-07-14T23:03:00,
+5X701,,A306,New Orleans Louis Armstrong International Airport,MSY,2025-07-14T23:04:00,
+5X513,,75V,Des Moines International Airport,DSM,2025-07-14T23:07:00,
+5X1339,,763,West Palm Beach International Airport,PBI,2025-07-14T23:08:00,
+5X1207,,M11,Baltimore Washington International Airport,BWI,2025-07-14T23:11:00,
+5X1305,,A306,Atlanta Hartsfield-Jackson International Airport,ATL,2025-07-14T23:14:00,
+5X1315,,B752,Savannah Hilton Head International Airport,SAV,2025-07-14T23:24:00,
